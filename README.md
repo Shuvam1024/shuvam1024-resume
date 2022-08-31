@@ -1,4 +1,3 @@
-# resume
-My Latest Resume
+# Resume
 
-![Alternate Name](ShuvamMukherjee_MontaVistaHS.pdf){width=500px}
+![My Latest Resume](ShuvamMukherjee_MontaVistaHS.pdf)
